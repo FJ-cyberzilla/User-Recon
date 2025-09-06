@@ -33,6 +33,6 @@ It identifies, analyzes, and compares usernames across multiple platforms with m
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/user-recon.git
+git clone https://github.com/<FJ-cyberzilla>/user-recon.git
 cd user-recon
 pip install -r requirements.txt
