@@ -29,10 +29,3 @@ It identifies, analyzes, and compares usernames across multiple platforms with m
   Sleek, color-coded reports with AI reasoning, percentage similarity, and anomaly status.  
 
 ---
-
-## Installation
-
-```bash
-git clone https://github.com/<FJ-cyberzilla>/user-recon.git
-cd user-recon
-pip install -r requirements.txt
